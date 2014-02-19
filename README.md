@@ -3,8 +3,6 @@ windowstan_deneme
 
 //girilen sayinin faktoriyelini hesaplayan C kodu
 
-#include <stdio.h>
-#include <stdlib.h>
 
 long faktoriyel(long N){
      if(N==0){
